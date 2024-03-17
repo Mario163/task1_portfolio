@@ -1,0 +1,104 @@
+.portfolio {
+    background: #FFFFFF;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 10px;
+    width: 1920px;
+    box-sizing: border-box;
+}
+
+.frame-4,
+.frame-5,
+.frame-2,
+.frame-6,
+.frame-57 {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    box-sizing: border-box;
+}
+
+.education,
+.contact,
+.home,
+.resume,
+.im-young-ui-ux-designer-with-one-year-of-experience-but-a-huge-motivation-to-create-something-user-friendly-and-beautify,
+.hi-im-kalyan-chavala-a-ui-ux-a-designer,
+.graduated-in-usha-rama-college-of-engineering-and-technology,
+.intermediate-in-kbn-college,
+.high-school-in-ravindra-bharathi-high-school {
+    word-break: break-word;
+    font-family: 'Italiana', serif;
+    font-weight: normal;
+    font-size: 25px;
+    color: #000000;
+}
+
+.frame-1 {
+    position: absolute;
+    left: -998.6px;
+    bottom: 9.5px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 708.3px;
+    height: 29px;
+    box-sizing: border-box;
+}
+
+.frame-7 {
+    position: absolute;
+    left: -1414.5px;
+    bottom: -6px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    height: 65px;
+    box-sizing: border-box;
+}
+
+.kalyan {
+    font-family: 'Italiana', serif;
+    font-weight: normal;
+    font-size: 19px;
+    line-height: 1.333;
+}
+
+.frame-8 {
+    background: url('https://fn12.com/api/clusters/cluster-fn12-prod-asia-southeast1/trialprojects/trial-SqTz5L4BgtpABSrj9rTPPJ/assets/images/a7415655733da83be55f898a5baf79793b0e0d5d?Expires=1711298851&KeyName=fn12-cdn&Signature=OUxBjGty750ECelR2VFD4LaYAd4=') 50% / cover no-repeat;
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    width: 377px;
+    height: 780.9px;
+}
+
+.skills-6 {
+    word-break: break-word;
+    font-family: 'Italiana', serif;
+    font-weight: normal;
+    font-size: 25px;
+    color: #000000;
+}
+
+.frame-10 {
+    box-shadow: 15px 15px 6.6px 0px rgba(0, 0, 0, 0.25);
+    border-radius: 12px;
+    border: 3px solid #F21B1B;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding: 12px 1px 13px 0;
+    width: 200px;
+    height: fit-content;
+    box-sizing: border-box;
+}
+
+.hire-me {
+    word-break: break-word;
+    font-family: 'Italiana', serif;
+    font-weight: normal;
+    font-size: 25px;
+    color: #FF0000;
+}
